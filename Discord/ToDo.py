@@ -79,4 +79,4 @@ async def on_message(message):
 
     elif message.content.startswith('{}settings'.format(prefix)):
         await client.send_message(message.channel, ' :gear: ** There are None, Peasant** :gear:')
-client.run("MzgwMDg5MTE1NzMzMTMxMjY0.DO3yeA.G3jsOoPTJ5SaiR-8iwvtyZjI96ws")
+client.run("Insert Code Here")
